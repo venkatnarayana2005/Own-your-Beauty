@@ -1,5 +1,4 @@
-OWN YOUR BEAUTY
-# OwnBeauty Services API
+# Own your Beauty Services API
 
 A Node.js + Express + MongoDB backend for managing beauty and wellness service bookings, accounts, reviews, and more.
 
