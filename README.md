@@ -25,3 +25,21 @@ A Node.js + Express + MongoDB backend for managing beauty and wellness service b
    ```bash
    git clone https://github.com/yourusername/ownbeauty.git
    cd ownbeauty/MST
+npm install
+
+MONGO_URI=your_mongodb_connection_string
+PORT=5000
+
+npm start
+
+MST/
+ ├── controllers/      # Route logic
+ ├── database.js       # MongoDB connection
+ ├── index.js          # Entry point
+ ├── package.json      # Dependencies & scripts
+ └── ...
+
+
+---
+
+Do you want me to **scan the controllers** so I can add **detailed API endpoint documentation** to the README? That would make it GitHub-ready for developers using your API. ​:contentReference[oaicite:0]{index=0}​
