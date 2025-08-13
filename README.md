@@ -56,4 +56,3 @@ MST/
 
 ---
 
-Do you want me to **scan the controllers** so I can add **detailed API endpoint documentation** to the README? That would make it GitHub-ready for developers using your API. ​:contentReference[oaicite:0]{index=0}​
