@@ -26,12 +26,26 @@ A Node.js + Express + MongoDB backend for managing beauty and wellness service b
    git clone https://github.com/yourusername/ownbeauty.git
    cd ownbeauty/MST
 npm install
-
+## Set up environment variables:
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
-
+## Start the development server
 npm start
 
+## API Structure
+/account – Account management
+
+/admin – Admin operations
+
+/bookings – Booking management
+
+/contactus – Contact form submissions
+
+/reviews – Customer reviews
+
+/services – Service listings
+
+## Project Structure
 MST/
  ├── controllers/      # Route logic
  ├── database.js       # MongoDB connection
